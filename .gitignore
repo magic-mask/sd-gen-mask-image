@@ -1,0 +1,8 @@
+# Python Environment
+.venv/
+./venv/
+.python-version
+
+# output
+segmentation_dataset/
+./segmentation_dataset/
