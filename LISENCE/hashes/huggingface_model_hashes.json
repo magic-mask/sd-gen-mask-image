@@ -1,0 +1,762 @@
+{
+  "generated_at": "2026-05-29T11:58:16.512324Z",
+  "huggingface_cache": "C:\\Users\\ddm\\.cache\\huggingface\\hub",
+  "files": [
+    {
+      "repo": "digiplay/majicMIX_realistic_v7",
+      "commit_hash": "94a3d523a255370830a323103953a2181af9347f",
+      "relative_path": "model_index.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--digiplay--majicMIX_realistic_v7\\snapshots\\94a3d523a255370830a323103953a2181af9347f\\model_index.json",
+      "size_bytes": 598,
+      "sha256": "fadde070a2f5de7e09e49671d8b072f88a7c516f3e2c5bb75a2fa78e898ea5dc",
+      "hashed_at": "2026-05-29T11:57:55.972235Z"
+    },
+    {
+      "repo": "digiplay/majicMIX_realistic_v7",
+      "commit_hash": "94a3d523a255370830a323103953a2181af9347f",
+      "relative_path": "feature_extractor/preprocessor_config.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--digiplay--majicMIX_realistic_v7\\snapshots\\94a3d523a255370830a323103953a2181af9347f\\feature_extractor\\preprocessor_config.json",
+      "size_bytes": 468,
+      "sha256": "5df7e578c37e907a431daf47fd592fc49fa50d23ed4c41285a0a34a58a9d2e06",
+      "hashed_at": "2026-05-29T11:57:55.977019Z"
+    },
+    {
+      "repo": "digiplay/majicMIX_realistic_v7",
+      "commit_hash": "94a3d523a255370830a323103953a2181af9347f",
+      "relative_path": "safety_checker/config.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--digiplay--majicMIX_realistic_v7\\snapshots\\94a3d523a255370830a323103953a2181af9347f\\safety_checker\\config.json",
+      "size_bytes": 692,
+      "sha256": "ee10a6145cce6e9d3f337985c553be27937378d6c43cf462bca9cfe802b96361",
+      "hashed_at": "2026-05-29T11:57:55.981636Z"
+    },
+    {
+      "repo": "digiplay/majicMIX_realistic_v7",
+      "commit_hash": "94a3d523a255370830a323103953a2181af9347f",
+      "relative_path": "safety_checker/model.safetensors",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--digiplay--majicMIX_realistic_v7\\snapshots\\94a3d523a255370830a323103953a2181af9347f\\safety_checker\\model.safetensors",
+      "size_bytes": 1215979664,
+      "sha256": "fb351a5ded815c3ff744968ad9c6b218d071b9d313d04f35e813b84b4c0ffde8",
+      "hashed_at": "2026-05-29T11:57:56.761109Z"
+    },
+    {
+      "repo": "digiplay/majicMIX_realistic_v7",
+      "commit_hash": "94a3d523a255370830a323103953a2181af9347f",
+      "relative_path": "scheduler/scheduler_config.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--digiplay--majicMIX_realistic_v7\\snapshots\\94a3d523a255370830a323103953a2181af9347f\\scheduler\\scheduler_config.json",
+      "size_bytes": 535,
+      "sha256": "7e3c3639e40fc9023e4f537c6cc7c82c09ba3508799722a0d7141712e9d15d2a",
+      "hashed_at": "2026-05-29T11:57:56.767279Z"
+    },
+    {
+      "repo": "digiplay/majicMIX_realistic_v7",
+      "commit_hash": "94a3d523a255370830a323103953a2181af9347f",
+      "relative_path": "text_encoder/config.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--digiplay--majicMIX_realistic_v7\\snapshots\\94a3d523a255370830a323103953a2181af9347f\\text_encoder\\config.json",
+      "size_bytes": 560,
+      "sha256": "c8386de73a461002dc66190e6ab15209ed98b6303078e49e3efd7dc2f2b787db",
+      "hashed_at": "2026-05-29T11:57:56.771790Z"
+    },
+    {
+      "repo": "digiplay/majicMIX_realistic_v7",
+      "commit_hash": "94a3d523a255370830a323103953a2181af9347f",
+      "relative_path": "text_encoder/model.safetensors",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--digiplay--majicMIX_realistic_v7\\snapshots\\94a3d523a255370830a323103953a2181af9347f\\text_encoder\\model.safetensors",
+      "size_bytes": 492265168,
+      "sha256": "b06fe96f31a54ef7316cb86a67a9e9e244a7647e58a7534761875228882295cd",
+      "hashed_at": "2026-05-29T11:57:57.100756Z"
+    },
+    {
+      "repo": "digiplay/majicMIX_realistic_v7",
+      "commit_hash": "94a3d523a255370830a323103953a2181af9347f",
+      "relative_path": "tokenizer/merges.txt",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--digiplay--majicMIX_realistic_v7\\snapshots\\94a3d523a255370830a323103953a2181af9347f\\tokenizer\\merges.txt",
+      "size_bytes": 524619,
+      "sha256": "9fd691f7c8039210e0fced15865466c65820d09b63988b0174bfe25de299051a",
+      "hashed_at": "2026-05-29T11:57:57.108530Z"
+    },
+    {
+      "repo": "digiplay/majicMIX_realistic_v7",
+      "commit_hash": "94a3d523a255370830a323103953a2181af9347f",
+      "relative_path": "tokenizer/special_tokens_map.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--digiplay--majicMIX_realistic_v7\\snapshots\\94a3d523a255370830a323103953a2181af9347f\\tokenizer\\special_tokens_map.json",
+      "size_bytes": 588,
+      "sha256": "2cdb3b8331a60c92fc1e55a13e9fd61fd2293c5a51275fdcccd62b780052530e",
+      "hashed_at": "2026-05-29T11:57:57.113053Z"
+    },
+    {
+      "repo": "digiplay/majicMIX_realistic_v7",
+      "commit_hash": "94a3d523a255370830a323103953a2181af9347f",
+      "relative_path": "tokenizer/tokenizer_config.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--digiplay--majicMIX_realistic_v7\\snapshots\\94a3d523a255370830a323103953a2181af9347f\\tokenizer\\tokenizer_config.json",
+      "size_bytes": 705,
+      "sha256": "6bdcee9ccce2a16ca2b4c0c5ed00b42c50ea225f4472a8c4c1e963a2902c2881",
+      "hashed_at": "2026-05-29T11:57:57.117248Z"
+    },
+    {
+      "repo": "digiplay/majicMIX_realistic_v7",
+      "commit_hash": "94a3d523a255370830a323103953a2181af9347f",
+      "relative_path": "tokenizer/vocab.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--digiplay--majicMIX_realistic_v7\\snapshots\\94a3d523a255370830a323103953a2181af9347f\\tokenizer\\vocab.json",
+      "size_bytes": 1059962,
+      "sha256": "e089ad92ba36837a0d31433e555c8f45fe601ab5c221d4f607ded32d9f7a4349",
+      "hashed_at": "2026-05-29T11:57:57.123010Z"
+    },
+    {
+      "repo": "digiplay/majicMIX_realistic_v7",
+      "commit_hash": "94a3d523a255370830a323103953a2181af9347f",
+      "relative_path": "unet/config.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--digiplay--majicMIX_realistic_v7\\snapshots\\94a3d523a255370830a323103953a2181af9347f\\unet\\config.json",
+      "size_bytes": 1783,
+      "sha256": "0911a11a54edd32af5901890616ea7325826d181b18bd1ad5f2e9793b7352ceb",
+      "hashed_at": "2026-05-29T11:57:57.127807Z"
+    },
+    {
+      "repo": "digiplay/majicMIX_realistic_v7",
+      "commit_hash": "94a3d523a255370830a323103953a2181af9347f",
+      "relative_path": "unet/diffusion_pytorch_model.safetensors",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--digiplay--majicMIX_realistic_v7\\snapshots\\94a3d523a255370830a323103953a2181af9347f\\unet\\diffusion_pytorch_model.safetensors",
+      "size_bytes": 3438167536,
+      "sha256": "a5a5dc95e4f2c6eb01fb7d54786d55f8a4fd3b08a3887ba4b79c793ee01b7588",
+      "hashed_at": "2026-05-29T11:57:59.299713Z"
+    },
+    {
+      "repo": "digiplay/majicMIX_realistic_v7",
+      "commit_hash": "94a3d523a255370830a323103953a2181af9347f",
+      "relative_path": "vae/config.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--digiplay--majicMIX_realistic_v7\\snapshots\\94a3d523a255370830a323103953a2181af9347f\\vae\\config.json",
+      "size_bytes": 606,
+      "sha256": "035d21f4f39896d7001769d1f16417b815d95b5361e0bb73303cd3e60c480157",
+      "hashed_at": "2026-05-29T11:57:59.306899Z"
+    },
+    {
+      "repo": "digiplay/majicMIX_realistic_v7",
+      "commit_hash": "94a3d523a255370830a323103953a2181af9347f",
+      "relative_path": "vae/diffusion_pytorch_model.safetensors",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--digiplay--majicMIX_realistic_v7\\snapshots\\94a3d523a255370830a323103953a2181af9347f\\vae\\diffusion_pytorch_model.safetensors",
+      "size_bytes": 334643268,
+      "sha256": "69e3a0fc4890b91d5e6ea4524db9e5df3012274f23e121ba27ce9ad78cfe53e3",
+      "hashed_at": "2026-05-29T11:57:59.520563Z"
+    },
+    {
+      "repo": "RunDiffusion/Juggernaut-XL-v9",
+      "commit_hash": "cf419233522daa0b9ea36c3aff98fa2cab1fb0fb",
+      "relative_path": "model_index.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--RunDiffusion--Juggernaut-XL-v9\\snapshots\\cf419233522daa0b9ea36c3aff98fa2cab1fb0fb\\model_index.json",
+      "size_bytes": 667,
+      "sha256": "153b1da39e7cc780003d5b25eb8d07b9c84b08cc20fd05b95652e780a15c8011",
+      "hashed_at": "2026-05-29T11:57:59.527393Z"
+    },
+    {
+      "repo": "RunDiffusion/Juggernaut-XL-v9",
+      "commit_hash": "cf419233522daa0b9ea36c3aff98fa2cab1fb0fb",
+      "relative_path": "scheduler/scheduler_config.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--RunDiffusion--Juggernaut-XL-v9\\snapshots\\cf419233522daa0b9ea36c3aff98fa2cab1fb0fb\\scheduler\\scheduler_config.json",
+      "size_bytes": 496,
+      "sha256": "db6b4739b5e23285a9552ec7c59de7ce40f6a4a3562fc1eccbd843f6444e5102",
+      "hashed_at": "2026-05-29T11:57:59.532005Z"
+    },
+    {
+      "repo": "RunDiffusion/Juggernaut-XL-v9",
+      "commit_hash": "cf419233522daa0b9ea36c3aff98fa2cab1fb0fb",
+      "relative_path": "text_encoder/config.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--RunDiffusion--Juggernaut-XL-v9\\snapshots\\cf419233522daa0b9ea36c3aff98fa2cab1fb0fb\\text_encoder\\config.json",
+      "size_bytes": 565,
+      "sha256": "47ced7a4ab2ecec78818ac4e8e1578c66253c2b93861c67c0b6d6c33ce3ff829",
+      "hashed_at": "2026-05-29T11:57:59.536248Z"
+    },
+    {
+      "repo": "RunDiffusion/Juggernaut-XL-v9",
+      "commit_hash": "cf419233522daa0b9ea36c3aff98fa2cab1fb0fb",
+      "relative_path": "text_encoder/model.fp16.safetensors",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--RunDiffusion--Juggernaut-XL-v9\\snapshots\\cf419233522daa0b9ea36c3aff98fa2cab1fb0fb\\text_encoder\\model.fp16.safetensors",
+      "size_bytes": 246144152,
+      "sha256": "698656aa4f452e1f8f38287240054a9b8d339b3051ec17d77d63bdb5605db01a",
+      "hashed_at": "2026-05-29T11:57:59.693443Z"
+    },
+    {
+      "repo": "RunDiffusion/Juggernaut-XL-v9",
+      "commit_hash": "cf419233522daa0b9ea36c3aff98fa2cab1fb0fb",
+      "relative_path": "text_encoder_2/config.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--RunDiffusion--Juggernaut-XL-v9\\snapshots\\cf419233522daa0b9ea36c3aff98fa2cab1fb0fb\\text_encoder_2\\config.json",
+      "size_bytes": 575,
+      "sha256": "d9f7e7eb1e2d162908ecf7925234425c4f1c978152fd60e18e4af2c67ccebb19",
+      "hashed_at": "2026-05-29T11:57:59.699366Z"
+    },
+    {
+      "repo": "RunDiffusion/Juggernaut-XL-v9",
+      "commit_hash": "cf419233522daa0b9ea36c3aff98fa2cab1fb0fb",
+      "relative_path": "text_encoder_2/model.fp16.safetensors",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--RunDiffusion--Juggernaut-XL-v9\\snapshots\\cf419233522daa0b9ea36c3aff98fa2cab1fb0fb\\text_encoder_2\\model.fp16.safetensors",
+      "size_bytes": 1389382176,
+      "sha256": "9962c194f50a9c580ebe573f2a4756d76dcd29abe15bffb0a5905509eb6a8dda",
+      "hashed_at": "2026-05-29T11:58:00.576954Z"
+    },
+    {
+      "repo": "RunDiffusion/Juggernaut-XL-v9",
+      "commit_hash": "cf419233522daa0b9ea36c3aff98fa2cab1fb0fb",
+      "relative_path": "tokenizer/merges.txt",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--RunDiffusion--Juggernaut-XL-v9\\snapshots\\cf419233522daa0b9ea36c3aff98fa2cab1fb0fb\\tokenizer\\merges.txt",
+      "size_bytes": 524619,
+      "sha256": "9fd691f7c8039210e0fced15865466c65820d09b63988b0174bfe25de299051a",
+      "hashed_at": "2026-05-29T11:58:00.585323Z"
+    },
+    {
+      "repo": "RunDiffusion/Juggernaut-XL-v9",
+      "commit_hash": "cf419233522daa0b9ea36c3aff98fa2cab1fb0fb",
+      "relative_path": "tokenizer/special_tokens_map.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--RunDiffusion--Juggernaut-XL-v9\\snapshots\\cf419233522daa0b9ea36c3aff98fa2cab1fb0fb\\tokenizer\\special_tokens_map.json",
+      "size_bytes": 588,
+      "sha256": "2cdb3b8331a60c92fc1e55a13e9fd61fd2293c5a51275fdcccd62b780052530e",
+      "hashed_at": "2026-05-29T11:58:00.586858Z"
+    },
+    {
+      "repo": "RunDiffusion/Juggernaut-XL-v9",
+      "commit_hash": "cf419233522daa0b9ea36c3aff98fa2cab1fb0fb",
+      "relative_path": "tokenizer/tokenizer_config.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--RunDiffusion--Juggernaut-XL-v9\\snapshots\\cf419233522daa0b9ea36c3aff98fa2cab1fb0fb\\tokenizer\\tokenizer_config.json",
+      "size_bytes": 705,
+      "sha256": "6bdcee9ccce2a16ca2b4c0c5ed00b42c50ea225f4472a8c4c1e963a2902c2881",
+      "hashed_at": "2026-05-29T11:58:00.588166Z"
+    },
+    {
+      "repo": "RunDiffusion/Juggernaut-XL-v9",
+      "commit_hash": "cf419233522daa0b9ea36c3aff98fa2cab1fb0fb",
+      "relative_path": "tokenizer/vocab.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--RunDiffusion--Juggernaut-XL-v9\\snapshots\\cf419233522daa0b9ea36c3aff98fa2cab1fb0fb\\tokenizer\\vocab.json",
+      "size_bytes": 1059962,
+      "sha256": "e089ad92ba36837a0d31433e555c8f45fe601ab5c221d4f607ded32d9f7a4349",
+      "hashed_at": "2026-05-29T11:58:00.594824Z"
+    },
+    {
+      "repo": "RunDiffusion/Juggernaut-XL-v9",
+      "commit_hash": "cf419233522daa0b9ea36c3aff98fa2cab1fb0fb",
+      "relative_path": "tokenizer_2/merges.txt",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--RunDiffusion--Juggernaut-XL-v9\\snapshots\\cf419233522daa0b9ea36c3aff98fa2cab1fb0fb\\tokenizer_2\\merges.txt",
+      "size_bytes": 524619,
+      "sha256": "9fd691f7c8039210e0fced15865466c65820d09b63988b0174bfe25de299051a",
+      "hashed_at": "2026-05-29T11:58:00.595905Z"
+    },
+    {
+      "repo": "RunDiffusion/Juggernaut-XL-v9",
+      "commit_hash": "cf419233522daa0b9ea36c3aff98fa2cab1fb0fb",
+      "relative_path": "tokenizer_2/special_tokens_map.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--RunDiffusion--Juggernaut-XL-v9\\snapshots\\cf419233522daa0b9ea36c3aff98fa2cab1fb0fb\\tokenizer_2\\special_tokens_map.json",
+      "size_bytes": 462,
+      "sha256": "c934044566ac411c4739e9cec969e061e8dcdf2bd108196a66ce917376d4d68e",
+      "hashed_at": "2026-05-29T11:58:00.600929Z"
+    },
+    {
+      "repo": "RunDiffusion/Juggernaut-XL-v9",
+      "commit_hash": "cf419233522daa0b9ea36c3aff98fa2cab1fb0fb",
+      "relative_path": "tokenizer_2/tokenizer_config.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--RunDiffusion--Juggernaut-XL-v9\\snapshots\\cf419233522daa0b9ea36c3aff98fa2cab1fb0fb\\tokenizer_2\\tokenizer_config.json",
+      "size_bytes": 856,
+      "sha256": "e70eb3e2b85a508e32bb81c32c13fc3f2b015548ca469b94627c2f32e445cba1",
+      "hashed_at": "2026-05-29T11:58:00.606256Z"
+    },
+    {
+      "repo": "RunDiffusion/Juggernaut-XL-v9",
+      "commit_hash": "cf419233522daa0b9ea36c3aff98fa2cab1fb0fb",
+      "relative_path": "tokenizer_2/vocab.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--RunDiffusion--Juggernaut-XL-v9\\snapshots\\cf419233522daa0b9ea36c3aff98fa2cab1fb0fb\\tokenizer_2\\vocab.json",
+      "size_bytes": 1059962,
+      "sha256": "e089ad92ba36837a0d31433e555c8f45fe601ab5c221d4f607ded32d9f7a4349",
+      "hashed_at": "2026-05-29T11:58:00.608105Z"
+    },
+    {
+      "repo": "RunDiffusion/Juggernaut-XL-v9",
+      "commit_hash": "cf419233522daa0b9ea36c3aff98fa2cab1fb0fb",
+      "relative_path": "unet/config.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--RunDiffusion--Juggernaut-XL-v9\\snapshots\\cf419233522daa0b9ea36c3aff98fa2cab1fb0fb\\unet\\config.json",
+      "size_bytes": 1778,
+      "sha256": "73cd3f7bd618835b6d09eefd5155b84ccdeea07c32a4d201574af19bd405a5bc",
+      "hashed_at": "2026-05-29T11:58:00.613373Z"
+    },
+    {
+      "repo": "RunDiffusion/Juggernaut-XL-v9",
+      "commit_hash": "cf419233522daa0b9ea36c3aff98fa2cab1fb0fb",
+      "relative_path": "unet/diffusion_pytorch_model.fp16.safetensors",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--RunDiffusion--Juggernaut-XL-v9\\snapshots\\cf419233522daa0b9ea36c3aff98fa2cab1fb0fb\\unet\\diffusion_pytorch_model.fp16.safetensors",
+      "size_bytes": 5135149760,
+      "sha256": "cf1ee18eb36712683f50c1e674634875e2adf7413d7492d5f9aa7e69e1a8c17a",
+      "hashed_at": "2026-05-29T11:58:03.862525Z"
+    },
+    {
+      "repo": "RunDiffusion/Juggernaut-XL-v9",
+      "commit_hash": "cf419233522daa0b9ea36c3aff98fa2cab1fb0fb",
+      "relative_path": "vae/config.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--RunDiffusion--Juggernaut-XL-v9\\snapshots\\cf419233522daa0b9ea36c3aff98fa2cab1fb0fb\\vae\\config.json",
+      "size_bytes": 607,
+      "sha256": "bcbed358bb80da88bc8b61785b7d14c39b5be5745d813e4c6a56e9084d4dc9d2",
+      "hashed_at": "2026-05-29T11:58:03.869096Z"
+    },
+    {
+      "repo": "RunDiffusion/Juggernaut-XL-v9",
+      "commit_hash": "cf419233522daa0b9ea36c3aff98fa2cab1fb0fb",
+      "relative_path": "vae/diffusion_pytorch_model.fp16.safetensors",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--RunDiffusion--Juggernaut-XL-v9\\snapshots\\cf419233522daa0b9ea36c3aff98fa2cab1fb0fb\\vae\\diffusion_pytorch_model.fp16.safetensors",
+      "size_bytes": 167335342,
+      "sha256": "6353737672c94b96174cb590f711eac6edf2fcce5b6e91aa9d73c5adc589ee48",
+      "hashed_at": "2026-05-29T11:58:03.979848Z"
+    },
+    {
+      "repo": "runwayml/stable-diffusion-v1-5",
+      "commit_hash": "451f4fe16113bff5a5d2269ed5ad43b0592e9a14",
+      "relative_path": "model_index.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--runwayml--stable-diffusion-v1-5\\snapshots\\451f4fe16113bff5a5d2269ed5ad43b0592e9a14\\model_index.json",
+      "size_bytes": 541,
+      "sha256": "e2f6f22e274374010aec30c79eb2d6e53fff4a36ac0225523a92cb2d41a83347",
+      "hashed_at": "2026-05-29T11:58:03.987379Z"
+    },
+    {
+      "repo": "runwayml/stable-diffusion-v1-5",
+      "commit_hash": "451f4fe16113bff5a5d2269ed5ad43b0592e9a14",
+      "relative_path": "feature_extractor/preprocessor_config.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--runwayml--stable-diffusion-v1-5\\snapshots\\451f4fe16113bff5a5d2269ed5ad43b0592e9a14\\feature_extractor\\preprocessor_config.json",
+      "size_bytes": 342,
+      "sha256": "2a1da83b5e1032aaeef397552ddb408dca0d8cd1dc58f61bf6abf38d6f33a0a2",
+      "hashed_at": "2026-05-29T11:58:03.993322Z"
+    },
+    {
+      "repo": "runwayml/stable-diffusion-v1-5",
+      "commit_hash": "451f4fe16113bff5a5d2269ed5ad43b0592e9a14",
+      "relative_path": "safety_checker/config.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--runwayml--stable-diffusion-v1-5\\snapshots\\451f4fe16113bff5a5d2269ed5ad43b0592e9a14\\safety_checker\\config.json",
+      "size_bytes": 4723,
+      "sha256": "5dd77a06cbd9b155060bd58deb81ffd1aafc1c6d7970acac674c1128bd4edfe2",
+      "hashed_at": "2026-05-29T11:58:03.999457Z"
+    },
+    {
+      "repo": "runwayml/stable-diffusion-v1-5",
+      "commit_hash": "451f4fe16113bff5a5d2269ed5ad43b0592e9a14",
+      "relative_path": "safety_checker/model.safetensors",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--runwayml--stable-diffusion-v1-5\\snapshots\\451f4fe16113bff5a5d2269ed5ad43b0592e9a14\\safety_checker\\model.safetensors",
+      "size_bytes": 1215981830,
+      "sha256": "9d6a233ff6fd5ccb9f76fd99618d73369c52dd3d8222376384d0e601911089e8",
+      "hashed_at": "2026-05-29T11:58:04.792608Z"
+    },
+    {
+      "repo": "runwayml/stable-diffusion-v1-5",
+      "commit_hash": "451f4fe16113bff5a5d2269ed5ad43b0592e9a14",
+      "relative_path": "scheduler/scheduler_config.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--runwayml--stable-diffusion-v1-5\\snapshots\\451f4fe16113bff5a5d2269ed5ad43b0592e9a14\\scheduler\\scheduler_config.json",
+      "size_bytes": 308,
+      "sha256": "699cce92eb7c122e2eb7dfdea78e6187fda76a5ed4a8e42319b85610e620e091",
+      "hashed_at": "2026-05-29T11:58:04.798821Z"
+    },
+    {
+      "repo": "runwayml/stable-diffusion-v1-5",
+      "commit_hash": "451f4fe16113bff5a5d2269ed5ad43b0592e9a14",
+      "relative_path": "text_encoder/config.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--runwayml--stable-diffusion-v1-5\\snapshots\\451f4fe16113bff5a5d2269ed5ad43b0592e9a14\\text_encoder\\config.json",
+      "size_bytes": 617,
+      "sha256": "845df614cb9327ae7bbea027316246fae917827407da6df13572e41b5f93b4cc",
+      "hashed_at": "2026-05-29T11:58:04.803449Z"
+    },
+    {
+      "repo": "runwayml/stable-diffusion-v1-5",
+      "commit_hash": "451f4fe16113bff5a5d2269ed5ad43b0592e9a14",
+      "relative_path": "text_encoder/model.safetensors",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--runwayml--stable-diffusion-v1-5\\snapshots\\451f4fe16113bff5a5d2269ed5ad43b0592e9a14\\text_encoder\\model.safetensors",
+      "size_bytes": 492265874,
+      "sha256": "d008943c017f0092921106440254dbbe00b6a285f7883ec8ba160c3faad88334",
+      "hashed_at": "2026-05-29T11:58:05.124042Z"
+    },
+    {
+      "repo": "runwayml/stable-diffusion-v1-5",
+      "commit_hash": "451f4fe16113bff5a5d2269ed5ad43b0592e9a14",
+      "relative_path": "tokenizer/merges.txt",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--runwayml--stable-diffusion-v1-5\\snapshots\\451f4fe16113bff5a5d2269ed5ad43b0592e9a14\\tokenizer\\merges.txt",
+      "size_bytes": 524619,
+      "sha256": "9fd691f7c8039210e0fced15865466c65820d09b63988b0174bfe25de299051a",
+      "hashed_at": "2026-05-29T11:58:05.131475Z"
+    },
+    {
+      "repo": "runwayml/stable-diffusion-v1-5",
+      "commit_hash": "451f4fe16113bff5a5d2269ed5ad43b0592e9a14",
+      "relative_path": "tokenizer/special_tokens_map.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--runwayml--stable-diffusion-v1-5\\snapshots\\451f4fe16113bff5a5d2269ed5ad43b0592e9a14\\tokenizer\\special_tokens_map.json",
+      "size_bytes": 472,
+      "sha256": "c4864a9376a8401918425bed71fc14fc0e81f9b59ec45c1cf96cccb2df508eac",
+      "hashed_at": "2026-05-29T11:58:05.132659Z"
+    },
+    {
+      "repo": "runwayml/stable-diffusion-v1-5",
+      "commit_hash": "451f4fe16113bff5a5d2269ed5ad43b0592e9a14",
+      "relative_path": "tokenizer/tokenizer_config.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--runwayml--stable-diffusion-v1-5\\snapshots\\451f4fe16113bff5a5d2269ed5ad43b0592e9a14\\tokenizer\\tokenizer_config.json",
+      "size_bytes": 806,
+      "sha256": "00439066fcba73de57644cf41e4e3b9f2dbb09d7f3fc2005898ba52399045882",
+      "hashed_at": "2026-05-29T11:58:05.137210Z"
+    },
+    {
+      "repo": "runwayml/stable-diffusion-v1-5",
+      "commit_hash": "451f4fe16113bff5a5d2269ed5ad43b0592e9a14",
+      "relative_path": "tokenizer/vocab.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--runwayml--stable-diffusion-v1-5\\snapshots\\451f4fe16113bff5a5d2269ed5ad43b0592e9a14\\tokenizer\\vocab.json",
+      "size_bytes": 1059962,
+      "sha256": "e089ad92ba36837a0d31433e555c8f45fe601ab5c221d4f607ded32d9f7a4349",
+      "hashed_at": "2026-05-29T11:58:05.142810Z"
+    },
+    {
+      "repo": "runwayml/stable-diffusion-v1-5",
+      "commit_hash": "451f4fe16113bff5a5d2269ed5ad43b0592e9a14",
+      "relative_path": "unet/config.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--runwayml--stable-diffusion-v1-5\\snapshots\\451f4fe16113bff5a5d2269ed5ad43b0592e9a14\\unet\\config.json",
+      "size_bytes": 743,
+      "sha256": "78f474de6bab3d893868f37be97b636ae65c0df3073ed3256ca458ff599b5f96",
+      "hashed_at": "2026-05-29T11:58:05.147108Z"
+    },
+    {
+      "repo": "runwayml/stable-diffusion-v1-5",
+      "commit_hash": "451f4fe16113bff5a5d2269ed5ad43b0592e9a14",
+      "relative_path": "unet/diffusion_pytorch_model.safetensors",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--runwayml--stable-diffusion-v1-5\\snapshots\\451f4fe16113bff5a5d2269ed5ad43b0592e9a14\\unet\\diffusion_pytorch_model.safetensors",
+      "size_bytes": 3438167540,
+      "sha256": "19da7aaa4b880e59d56843f1fcb4dd9b599c28a1d9d9af7c1143057c8ffae9f1",
+      "hashed_at": "2026-05-29T11:58:07.327671Z"
+    },
+    {
+      "repo": "runwayml/stable-diffusion-v1-5",
+      "commit_hash": "451f4fe16113bff5a5d2269ed5ad43b0592e9a14",
+      "relative_path": "vae/config.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--runwayml--stable-diffusion-v1-5\\snapshots\\451f4fe16113bff5a5d2269ed5ad43b0592e9a14\\vae\\config.json",
+      "size_bytes": 547,
+      "sha256": "786a7d21647ddea6a04b9675c03d3cb45e90a2f3c6da5fbda2c54ade040036de",
+      "hashed_at": "2026-05-29T11:58:07.334623Z"
+    },
+    {
+      "repo": "runwayml/stable-diffusion-v1-5",
+      "commit_hash": "451f4fe16113bff5a5d2269ed5ad43b0592e9a14",
+      "relative_path": "vae/diffusion_pytorch_model.safetensors",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--runwayml--stable-diffusion-v1-5\\snapshots\\451f4fe16113bff5a5d2269ed5ad43b0592e9a14\\vae\\diffusion_pytorch_model.safetensors",
+      "size_bytes": 334643276,
+      "sha256": "a2b5134f4dbc140d9c11f11cba3233099e00af40f262f136c691fb7d38d2194c",
+      "hashed_at": "2026-05-29T11:58:07.553258Z"
+    },
+    {
+      "repo": "SG161222/RealVisXL_V4.0",
+      "commit_hash": "26dfe44930964cd70d0a817b6d1cc945c130e38d",
+      "relative_path": "model_index.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--SG161222--RealVisXL_V4.0\\snapshots\\26dfe44930964cd70d0a817b6d1cc945c130e38d\\model_index.json",
+      "size_bytes": 577,
+      "sha256": "9f4c1ca84a774e96e3dec2dc672d764269b74509ad93a9dd7146dae356c575b0",
+      "hashed_at": "2026-05-29T11:58:07.554720Z"
+    },
+    {
+      "repo": "SG161222/RealVisXL_V4.0",
+      "commit_hash": "26dfe44930964cd70d0a817b6d1cc945c130e38d",
+      "relative_path": "scheduler/scheduler_config.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--SG161222--RealVisXL_V4.0\\snapshots\\26dfe44930964cd70d0a817b6d1cc945c130e38d\\scheduler\\scheduler_config.json",
+      "size_bytes": 474,
+      "sha256": "c0c64091062ec4ed3c1b6091394cc78d8d43e8d0f21d9211649bab29431ea87d",
+      "hashed_at": "2026-05-29T11:58:07.555410Z"
+    },
+    {
+      "repo": "SG161222/RealVisXL_V4.0",
+      "commit_hash": "26dfe44930964cd70d0a817b6d1cc945c130e38d",
+      "relative_path": "text_encoder/config.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--SG161222--RealVisXL_V4.0\\snapshots\\26dfe44930964cd70d0a817b6d1cc945c130e38d\\text_encoder\\config.json",
+      "size_bytes": 560,
+      "sha256": "32d8cadf544d77c231efa1381145ac7e8f4cc88f581455c3c5f6369364474c83",
+      "hashed_at": "2026-05-29T11:58:07.556278Z"
+    },
+    {
+      "repo": "SG161222/RealVisXL_V4.0",
+      "commit_hash": "26dfe44930964cd70d0a817b6d1cc945c130e38d",
+      "relative_path": "text_encoder/model.fp16.safetensors",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--SG161222--RealVisXL_V4.0\\snapshots\\26dfe44930964cd70d0a817b6d1cc945c130e38d\\text_encoder\\model.fp16.safetensors",
+      "size_bytes": 246144864,
+      "sha256": "261b2e72bd3b76723eff6f9857c23cd8f8de6a12129d5351b56271b9202ac0aa",
+      "hashed_at": "2026-05-29T11:58:07.713867Z"
+    },
+    {
+      "repo": "SG161222/RealVisXL_V4.0",
+      "commit_hash": "26dfe44930964cd70d0a817b6d1cc945c130e38d",
+      "relative_path": "text_encoder_2/config.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--SG161222--RealVisXL_V4.0\\snapshots\\26dfe44930964cd70d0a817b6d1cc945c130e38d\\text_encoder_2\\config.json",
+      "size_bytes": 570,
+      "sha256": "79b0f15ad762cf9c2992d50f9679d08c6cb477a50c88d41e216fc2d886e37abb",
+      "hashed_at": "2026-05-29T11:58:07.714747Z"
+    },
+    {
+      "repo": "SG161222/RealVisXL_V4.0",
+      "commit_hash": "26dfe44930964cd70d0a817b6d1cc945c130e38d",
+      "relative_path": "text_encoder_2/model.fp16.safetensors",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--SG161222--RealVisXL_V4.0\\snapshots\\26dfe44930964cd70d0a817b6d1cc945c130e38d\\text_encoder_2\\model.fp16.safetensors",
+      "size_bytes": 1389382880,
+      "sha256": "de815ea750a4ceeeff4452c6023f894fa66db5db6e7053e589be3104922dd8e2",
+      "hashed_at": "2026-05-29T11:58:08.611499Z"
+    },
+    {
+      "repo": "SG161222/RealVisXL_V4.0",
+      "commit_hash": "26dfe44930964cd70d0a817b6d1cc945c130e38d",
+      "relative_path": "tokenizer/merges.txt",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--SG161222--RealVisXL_V4.0\\snapshots\\26dfe44930964cd70d0a817b6d1cc945c130e38d\\tokenizer\\merges.txt",
+      "size_bytes": 524619,
+      "sha256": "9fd691f7c8039210e0fced15865466c65820d09b63988b0174bfe25de299051a",
+      "hashed_at": "2026-05-29T11:58:08.612756Z"
+    },
+    {
+      "repo": "SG161222/RealVisXL_V4.0",
+      "commit_hash": "26dfe44930964cd70d0a817b6d1cc945c130e38d",
+      "relative_path": "tokenizer/special_tokens_map.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--SG161222--RealVisXL_V4.0\\snapshots\\26dfe44930964cd70d0a817b6d1cc945c130e38d\\tokenizer\\special_tokens_map.json",
+      "size_bytes": 472,
+      "sha256": "c4864a9376a8401918425bed71fc14fc0e81f9b59ec45c1cf96cccb2df508eac",
+      "hashed_at": "2026-05-29T11:58:08.613341Z"
+    },
+    {
+      "repo": "SG161222/RealVisXL_V4.0",
+      "commit_hash": "26dfe44930964cd70d0a817b6d1cc945c130e38d",
+      "relative_path": "tokenizer/tokenizer_config.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--SG161222--RealVisXL_V4.0\\snapshots\\26dfe44930964cd70d0a817b6d1cc945c130e38d\\tokenizer\\tokenizer_config.json",
+      "size_bytes": 737,
+      "sha256": "19d7b034cb0cc3ce9766c2231373ab8aa8991fc72e2c8f76558bfaae3de0d563",
+      "hashed_at": "2026-05-29T11:58:08.614115Z"
+    },
+    {
+      "repo": "SG161222/RealVisXL_V4.0",
+      "commit_hash": "26dfe44930964cd70d0a817b6d1cc945c130e38d",
+      "relative_path": "tokenizer/vocab.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--SG161222--RealVisXL_V4.0\\snapshots\\26dfe44930964cd70d0a817b6d1cc945c130e38d\\tokenizer\\vocab.json",
+      "size_bytes": 1059962,
+      "sha256": "e089ad92ba36837a0d31433e555c8f45fe601ab5c221d4f607ded32d9f7a4349",
+      "hashed_at": "2026-05-29T11:58:08.615679Z"
+    },
+    {
+      "repo": "SG161222/RealVisXL_V4.0",
+      "commit_hash": "26dfe44930964cd70d0a817b6d1cc945c130e38d",
+      "relative_path": "tokenizer_2/merges.txt",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--SG161222--RealVisXL_V4.0\\snapshots\\26dfe44930964cd70d0a817b6d1cc945c130e38d\\tokenizer_2\\merges.txt",
+      "size_bytes": 524619,
+      "sha256": "9fd691f7c8039210e0fced15865466c65820d09b63988b0174bfe25de299051a",
+      "hashed_at": "2026-05-29T11:58:08.616804Z"
+    },
+    {
+      "repo": "SG161222/RealVisXL_V4.0",
+      "commit_hash": "26dfe44930964cd70d0a817b6d1cc945c130e38d",
+      "relative_path": "tokenizer_2/special_tokens_map.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--SG161222--RealVisXL_V4.0\\snapshots\\26dfe44930964cd70d0a817b6d1cc945c130e38d\\tokenizer_2\\special_tokens_map.json",
+      "size_bytes": 460,
+      "sha256": "f118ab3a983206e4f32583448de6bd6aae4ee21869135cef1f5848a753cdaab6",
+      "hashed_at": "2026-05-29T11:58:08.617338Z"
+    },
+    {
+      "repo": "SG161222/RealVisXL_V4.0",
+      "commit_hash": "26dfe44930964cd70d0a817b6d1cc945c130e38d",
+      "relative_path": "tokenizer_2/tokenizer_config.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--SG161222--RealVisXL_V4.0\\snapshots\\26dfe44930964cd70d0a817b6d1cc945c130e38d\\tokenizer_2\\tokenizer_config.json",
+      "size_bytes": 725,
+      "sha256": "c9d23941f76a41cbd50eda9290f57be7828f0a7a677939e9ef181f7e12bd1bdf",
+      "hashed_at": "2026-05-29T11:58:08.617959Z"
+    },
+    {
+      "repo": "SG161222/RealVisXL_V4.0",
+      "commit_hash": "26dfe44930964cd70d0a817b6d1cc945c130e38d",
+      "relative_path": "tokenizer_2/vocab.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--SG161222--RealVisXL_V4.0\\snapshots\\26dfe44930964cd70d0a817b6d1cc945c130e38d\\tokenizer_2\\vocab.json",
+      "size_bytes": 1059962,
+      "sha256": "e089ad92ba36837a0d31433e555c8f45fe601ab5c221d4f607ded32d9f7a4349",
+      "hashed_at": "2026-05-29T11:58:08.619511Z"
+    },
+    {
+      "repo": "SG161222/RealVisXL_V4.0",
+      "commit_hash": "26dfe44930964cd70d0a817b6d1cc945c130e38d",
+      "relative_path": "unet/config.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--SG161222--RealVisXL_V4.0\\snapshots\\26dfe44930964cd70d0a817b6d1cc945c130e38d\\unet\\config.json",
+      "size_bytes": 1675,
+      "sha256": "37784f07a6e69c4f0bcc0cca5009d766f905fdcaaaeeae71a88a4cd336248dc5",
+      "hashed_at": "2026-05-29T11:58:08.620208Z"
+    },
+    {
+      "repo": "SG161222/RealVisXL_V4.0",
+      "commit_hash": "26dfe44930964cd70d0a817b6d1cc945c130e38d",
+      "relative_path": "unet/diffusion_pytorch_model.fp16.safetensors",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--SG161222--RealVisXL_V4.0\\snapshots\\26dfe44930964cd70d0a817b6d1cc945c130e38d\\unet\\diffusion_pytorch_model.fp16.safetensors",
+      "size_bytes": 5135149760,
+      "sha256": "dc2027ec2344f8554ba3a691130f41707b23bb4822db44463b5434343c856003",
+      "hashed_at": "2026-05-29T11:58:11.946445Z"
+    },
+    {
+      "repo": "SG161222/RealVisXL_V4.0",
+      "commit_hash": "26dfe44930964cd70d0a817b6d1cc945c130e38d",
+      "relative_path": "vae/config.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--SG161222--RealVisXL_V4.0\\snapshots\\26dfe44930964cd70d0a817b6d1cc945c130e38d\\vae\\config.json",
+      "size_bytes": 602,
+      "sha256": "dc6c597ac41c1c84537fb1924b85078f92ac13f00da3e7a22ae981ba8a81b88c",
+      "hashed_at": "2026-05-29T11:58:11.947422Z"
+    },
+    {
+      "repo": "SG161222/RealVisXL_V4.0",
+      "commit_hash": "26dfe44930964cd70d0a817b6d1cc945c130e38d",
+      "relative_path": "vae/diffusion_pytorch_model.fp16.safetensors",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--SG161222--RealVisXL_V4.0\\snapshots\\26dfe44930964cd70d0a817b6d1cc945c130e38d\\vae\\diffusion_pytorch_model.fp16.safetensors",
+      "size_bytes": 167335342,
+      "sha256": "6353737672c94b96174cb590f711eac6edf2fcce5b6e91aa9d73c5adc589ee48",
+      "hashed_at": "2026-05-29T11:58:12.060894Z"
+    },
+    {
+      "repo": "SG161222/RealVisXL_V5.0",
+      "commit_hash": "ac93e0dda1f6d448cae19bbfab8c5e720a5e48bc",
+      "relative_path": "model_index.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--SG161222--RealVisXL_V5.0\\snapshots\\ac93e0dda1f6d448cae19bbfab8c5e720a5e48bc\\model_index.json",
+      "size_bytes": 708,
+      "sha256": "f15de0dfcd39efb54005fe7110fc07580dc7b90e73b2a7fb2ad4500381592e96",
+      "hashed_at": "2026-05-29T11:58:12.062357Z"
+    },
+    {
+      "repo": "SG161222/RealVisXL_V5.0",
+      "commit_hash": "ac93e0dda1f6d448cae19bbfab8c5e720a5e48bc",
+      "relative_path": "scheduler/scheduler_config.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--SG161222--RealVisXL_V5.0\\snapshots\\ac93e0dda1f6d448cae19bbfab8c5e720a5e48bc\\scheduler\\scheduler_config.json",
+      "size_bytes": 526,
+      "sha256": "4276ecb13fc42b6667fe47bac67a376e99e4c26d477e189c4630dd7037a25a9a",
+      "hashed_at": "2026-05-29T11:58:12.063083Z"
+    },
+    {
+      "repo": "SG161222/RealVisXL_V5.0",
+      "commit_hash": "ac93e0dda1f6d448cae19bbfab8c5e720a5e48bc",
+      "relative_path": "text_encoder/config.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--SG161222--RealVisXL_V5.0\\snapshots\\ac93e0dda1f6d448cae19bbfab8c5e720a5e48bc\\text_encoder\\config.json",
+      "size_bytes": 584,
+      "sha256": "c5975e04befd9ced7cb307e2b6e935449e775d1963445c139d0bae8abdfacc34",
+      "hashed_at": "2026-05-29T11:58:12.063841Z"
+    },
+    {
+      "repo": "SG161222/RealVisXL_V5.0",
+      "commit_hash": "ac93e0dda1f6d448cae19bbfab8c5e720a5e48bc",
+      "relative_path": "text_encoder/model.fp16.safetensors",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--SG161222--RealVisXL_V5.0\\snapshots\\ac93e0dda1f6d448cae19bbfab8c5e720a5e48bc\\text_encoder\\model.fp16.safetensors",
+      "size_bytes": 246144152,
+      "sha256": "0a873801e35a008b17e228189a83a8b41e068ffe7bde7c1105e8c6e947758bc5",
+      "hashed_at": "2026-05-29T11:58:12.224214Z"
+    },
+    {
+      "repo": "SG161222/RealVisXL_V5.0",
+      "commit_hash": "ac93e0dda1f6d448cae19bbfab8c5e720a5e48bc",
+      "relative_path": "text_encoder_2/config.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--SG161222--RealVisXL_V5.0\\snapshots\\ac93e0dda1f6d448cae19bbfab8c5e720a5e48bc\\text_encoder_2\\config.json",
+      "size_bytes": 594,
+      "sha256": "a07d5cbb8a2b6c5834e67008de0aee108bd6396edfe909ef7b6c08c21d5c4c07",
+      "hashed_at": "2026-05-29T11:58:12.225069Z"
+    },
+    {
+      "repo": "SG161222/RealVisXL_V5.0",
+      "commit_hash": "ac93e0dda1f6d448cae19bbfab8c5e720a5e48bc",
+      "relative_path": "text_encoder_2/model.fp16.safetensors",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--SG161222--RealVisXL_V5.0\\snapshots\\ac93e0dda1f6d448cae19bbfab8c5e720a5e48bc\\text_encoder_2\\model.fp16.safetensors",
+      "size_bytes": 1389382176,
+      "sha256": "dfa429b268cd3f6297927f1fd3eacac04781b17ab4caa97892a461ff41400a5e",
+      "hashed_at": "2026-05-29T11:58:13.126623Z"
+    },
+    {
+      "repo": "SG161222/RealVisXL_V5.0",
+      "commit_hash": "ac93e0dda1f6d448cae19bbfab8c5e720a5e48bc",
+      "relative_path": "tokenizer/merges.txt",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--SG161222--RealVisXL_V5.0\\snapshots\\ac93e0dda1f6d448cae19bbfab8c5e720a5e48bc\\tokenizer\\merges.txt",
+      "size_bytes": 573514,
+      "sha256": "0bc7695944744789d6fd6d0ab754bcbbb9e36f1c182df0a006d619ce70a1e052",
+      "hashed_at": "2026-05-29T11:58:13.127933Z"
+    },
+    {
+      "repo": "SG161222/RealVisXL_V5.0",
+      "commit_hash": "ac93e0dda1f6d448cae19bbfab8c5e720a5e48bc",
+      "relative_path": "tokenizer/special_tokens_map.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--SG161222--RealVisXL_V5.0\\snapshots\\ac93e0dda1f6d448cae19bbfab8c5e720a5e48bc\\tokenizer\\special_tokens_map.json",
+      "size_bytes": 496,
+      "sha256": "c8227988aadac941e93b5ffef08b4add8ccbdb26404a62b3e41f61eef119b252",
+      "hashed_at": "2026-05-29T11:58:13.134193Z"
+    },
+    {
+      "repo": "SG161222/RealVisXL_V5.0",
+      "commit_hash": "ac93e0dda1f6d448cae19bbfab8c5e720a5e48bc",
+      "relative_path": "tokenizer/tokenizer_config.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--SG161222--RealVisXL_V5.0\\snapshots\\ac93e0dda1f6d448cae19bbfab8c5e720a5e48bc\\tokenizer\\tokenizer_config.json",
+      "size_bytes": 734,
+      "sha256": "2edbd316072af0382bb999f82b007ad8af159d6277648e29b7747d72c3add791",
+      "hashed_at": "2026-05-29T11:58:13.134858Z"
+    },
+    {
+      "repo": "SG161222/RealVisXL_V5.0",
+      "commit_hash": "ac93e0dda1f6d448cae19bbfab8c5e720a5e48bc",
+      "relative_path": "tokenizer/vocab.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--SG161222--RealVisXL_V5.0\\snapshots\\ac93e0dda1f6d448cae19bbfab8c5e720a5e48bc\\tokenizer\\vocab.json",
+      "size_bytes": 1109372,
+      "sha256": "fd67774a869730a6b27bf53d3e434e72054f2a825873c7af3bece183bb1f791e",
+      "hashed_at": "2026-05-29T11:58:13.136538Z"
+    },
+    {
+      "repo": "SG161222/RealVisXL_V5.0",
+      "commit_hash": "ac93e0dda1f6d448cae19bbfab8c5e720a5e48bc",
+      "relative_path": "tokenizer_2/merges.txt",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--SG161222--RealVisXL_V5.0\\snapshots\\ac93e0dda1f6d448cae19bbfab8c5e720a5e48bc\\tokenizer_2\\merges.txt",
+      "size_bytes": 573514,
+      "sha256": "0bc7695944744789d6fd6d0ab754bcbbb9e36f1c182df0a006d619ce70a1e052",
+      "hashed_at": "2026-05-29T11:58:13.137620Z"
+    },
+    {
+      "repo": "SG161222/RealVisXL_V5.0",
+      "commit_hash": "ac93e0dda1f6d448cae19bbfab8c5e720a5e48bc",
+      "relative_path": "tokenizer_2/special_tokens_map.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--SG161222--RealVisXL_V5.0\\snapshots\\ac93e0dda1f6d448cae19bbfab8c5e720a5e48bc\\tokenizer_2\\special_tokens_map.json",
+      "size_bytes": 484,
+      "sha256": "a83f5831a70d1d21c057186d35aaa504894103d24ee905baa99bc7e83ceb70ee",
+      "hashed_at": "2026-05-29T11:58:13.142695Z"
+    },
+    {
+      "repo": "SG161222/RealVisXL_V5.0",
+      "commit_hash": "ac93e0dda1f6d448cae19bbfab8c5e720a5e48bc",
+      "relative_path": "tokenizer_2/tokenizer_config.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--SG161222--RealVisXL_V5.0\\snapshots\\ac93e0dda1f6d448cae19bbfab8c5e720a5e48bc\\tokenizer_2\\tokenizer_config.json",
+      "size_bytes": 893,
+      "sha256": "6e6c80bd367c7b39df2d7add74577ffd79d0840f3aa96e3b5893b95230743bcf",
+      "hashed_at": "2026-05-29T11:58:13.143396Z"
+    },
+    {
+      "repo": "SG161222/RealVisXL_V5.0",
+      "commit_hash": "ac93e0dda1f6d448cae19bbfab8c5e720a5e48bc",
+      "relative_path": "tokenizer_2/vocab.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--SG161222--RealVisXL_V5.0\\snapshots\\ac93e0dda1f6d448cae19bbfab8c5e720a5e48bc\\tokenizer_2\\vocab.json",
+      "size_bytes": 1109372,
+      "sha256": "fd67774a869730a6b27bf53d3e434e72054f2a825873c7af3bece183bb1f791e",
+      "hashed_at": "2026-05-29T11:58:13.145079Z"
+    },
+    {
+      "repo": "SG161222/RealVisXL_V5.0",
+      "commit_hash": "ac93e0dda1f6d448cae19bbfab8c5e720a5e48bc",
+      "relative_path": "unet/config.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--SG161222--RealVisXL_V5.0\\snapshots\\ac93e0dda1f6d448cae19bbfab8c5e720a5e48bc\\unet\\config.json",
+      "size_bytes": 1850,
+      "sha256": "a7f46710bde141386d8b1249b16beabb769affd8873eb9c6def581e8a110798a",
+      "hashed_at": "2026-05-29T11:58:13.145769Z"
+    },
+    {
+      "repo": "SG161222/RealVisXL_V5.0",
+      "commit_hash": "ac93e0dda1f6d448cae19bbfab8c5e720a5e48bc",
+      "relative_path": "unet/diffusion_pytorch_model.fp16.safetensors",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--SG161222--RealVisXL_V5.0\\snapshots\\ac93e0dda1f6d448cae19bbfab8c5e720a5e48bc\\unet\\diffusion_pytorch_model.fp16.safetensors",
+      "size_bytes": 5135149760,
+      "sha256": "ea10386073d39ffdde9fda426745b3f5e9dcd2af204c128ece0f4ea84570ffee",
+      "hashed_at": "2026-05-29T11:58:16.401415Z"
+    },
+    {
+      "repo": "SG161222/RealVisXL_V5.0",
+      "commit_hash": "ac93e0dda1f6d448cae19bbfab8c5e720a5e48bc",
+      "relative_path": "vae/config.json",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--SG161222--RealVisXL_V5.0\\snapshots\\ac93e0dda1f6d448cae19bbfab8c5e720a5e48bc\\vae\\config.json",
+      "size_bytes": 807,
+      "sha256": "5d301324288c14277bab2b284004b91b81faffc800202ddba59e401c82683959",
+      "hashed_at": "2026-05-29T11:58:16.402263Z"
+    },
+    {
+      "repo": "SG161222/RealVisXL_V5.0",
+      "commit_hash": "ac93e0dda1f6d448cae19bbfab8c5e720a5e48bc",
+      "relative_path": "vae/diffusion_pytorch_model.fp16.safetensors",
+      "absolute_path": "C:\\Users\\ddm\\.cache\\huggingface\\hub\\models--SG161222--RealVisXL_V5.0\\snapshots\\ac93e0dda1f6d448cae19bbfab8c5e720a5e48bc\\vae\\diffusion_pytorch_model.fp16.safetensors",
+      "size_bytes": 167335342,
+      "sha256": "6353737672c94b96174cb590f711eac6edf2fcce5b6e91aa9d73c5adc589ee48",
+      "hashed_at": "2026-05-29T11:58:16.511904Z"
+    }
+  ]
+}
